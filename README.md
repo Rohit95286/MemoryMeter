@@ -64,4 +64,10 @@ http://localhost:3000/memory
 
 ---
 
+
+http://localhost:3000/meter 
+
+![image](https://github.com/user-attachments/assets/bf9024fa-4e67-40bb-828d-e055f921ecc0)
+
+
 🚀 **Built for monitoring system performance!** 💻 Let me know if you need any changes! 😊🔥  
