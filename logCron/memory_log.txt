@@ -1,0 +1,64 @@
+{
+  "date": "2025-03-07T14:38:00.406Z",
+  "freeMemoryPercentage": "46.02"
+}{
+  "date": "2025-03-07T14:39:00.937Z",
+  "freeMemoryPercentage": "44.44"
+}{
+  "date": "2025-03-07T14:40:00.455Z",
+  "freeMemoryPercentage": "45.51"
+}{
+  "date": "2025-03-07T14:41:00.266Z",
+  "freeMemoryPercentage": "39.65"
+}{
+  "date": "2025-03-07T14:42:00.799Z",
+  "freeMemoryPercentage": "40.16"
+}{
+  "date": "2025-03-07T14:43:00.214Z",
+  "freeMemoryPercentage": "41.87"
+}{
+  "date": "2025-03-07T14:44:00.009Z",
+  "freeMemoryPercentage": "39.72"
+}{
+  "date": "2025-03-07T14:45:00.310Z",
+  "freeMemoryPercentage": "41.19"
+}{
+  "date": "2025-03-07T14:46:00.820Z",
+  "freeMemoryPercentage": "40.90"
+}{
+  "date": "2025-03-07T14:47:00.603Z",
+  "freeMemoryPercentage": "41.08"
+}{
+  "date": "2025-03-07T14:48:00.538Z",
+  "freeMemoryPercentage": "40.72"
+}{
+  "date": "2025-03-07T14:49:00.007Z",
+  "freeMemoryPercentage": "39.79"
+}{
+  "date": "2025-03-07T14:50:00.439Z",
+  "freeMemoryPercentage": "38.40"
+}{
+  "date": "2025-03-07T14:50:25.788Z",
+  "freeMemoryPercentage": "39.80"
+}{
+  "date": "2025-03-07T14:50:26.792Z",
+  "freeMemoryPercentage": "39.77"
+}{
+  "date": "2025-03-07T14:50:27.802Z",
+  "freeMemoryPercentage": "39.75"
+}{
+  "date": "2025-03-07T14:50:28.811Z",
+  "freeMemoryPercentage": "39.77"
+}{
+  "date": "2025-03-07T14:50:29.824Z",
+  "freeMemoryPercentage": "39.76"
+}{
+  "date": "2025-03-07T14:50:30.832Z",
+  "freeMemoryPercentage": "39.76"
+}{
+  "date": "2025-03-07T14:50:31.838Z",
+  "freeMemoryPercentage": "39.84"
+}{
+  "date": "2025-03-07T14:50:32.852Z",
+  "freeMemoryPercentage": "39.87"
+}
